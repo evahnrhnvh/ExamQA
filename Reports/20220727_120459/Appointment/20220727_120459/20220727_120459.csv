@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Appointment,,,,2022-07-27 12:05:04,2022-07-27 12:05:05,0.566s,ERROR
+,,,,,,,
+Test Cases/Login_If Else_Data Binding,,"Common test case used to login. 
+Steps:
+- Click on 'Book Appointment' button to login
+- Input username and password
+- Click on 'Login' button
+
+Expected result:
+'Appointment' section is displayed after successful login",,2022-07-27 12:05:05,2022-07-27 12:05:05,0.000s,ERROR
+,,,,,,,
+Test Cases/Make Appointment_If Else,,,,2022-07-27 12:05:05,2022-07-27 12:05:05,0.000s,ERROR

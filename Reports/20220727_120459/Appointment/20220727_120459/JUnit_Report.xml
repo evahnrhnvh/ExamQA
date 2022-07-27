@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Appointment" time="0.566" tests="2" failures="0" errors="2">
+   <testsuite name="Appointment" tests="2" failures="0" errors="2" time="0.566" skipped="0" timestamp="2022-07-27 12:05:04" hostname="Owner - LTSI-03-003EV" id="Test Suites/Appointment">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Owner\\git\\ExamQA\\Reports\\20220727_120459\\Appointment\\20220727_120459"/>
+         <property name="logFiles" value="C:\\Users\\Owner\\git\\ExamQA\\Reports\\20220727_120459\\Appointment\\20220727_120459\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Owner - LTSI-03-003EV"/>
+         <property name="hostAddress" value="192.104.104.69"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.4.0.208"/>
+      </properties>
+      <testcase name="Test Cases/Login_If Else_Data Binding" time="0.0" classname="Test Cases/Login_If Else_Data Binding" status="ERROR">
+         <error type="ERROR" message="Test Cases/Login_If Else_Data Binding has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2022-07-27 12:05:05 - [TEST_CASE][ERROR] - Test Cases/Login_If Else_Data Binding: Test Cases/Login_If Else_Data Binding has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2022-07-27 12:05:05 - [TEST_CASE][ERROR] - Test Cases/Login_If Else_Data Binding: Test Cases/Login_If Else_Data Binding has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Make Appointment_If Else" time="0.0" classname="Test Cases/Make Appointment_If Else" status="ERROR">
+         <error type="ERROR" message="Test Cases/Make Appointment_If Else has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist"/>
+         <system-out><![CDATA[2022-07-27 12:05:05 - [TEST_CASE][ERROR] - Test Cases/Make Appointment_If Else: Test Cases/Make Appointment_If Else has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+         <system-err><![CDATA[2022-07-27 12:05:05 - [TEST_CASE][ERROR] - Test Cases/Make Appointment_If Else: Test Cases/Make Appointment_If Else has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-07-27 12:05:04 - [TEST_SUITE][ERROR] - Appointment: Test Cases/Login_If Else_Data Binding has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-out>
+      <system-err><![CDATA[2022-07-27 12:05:04 - [TEST_SUITE][ERROR] - Appointment: Test Cases/Login_If Else_Data Binding has ERROR(s).
+Reason:
+java.io.FileNotFoundException: File '' does not exist]]></system-err>
+   </testsuite>
+</testsuites>
